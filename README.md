@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
-    ###
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   ![Snake animation](https://github.com/NandaCaldeira/NandaCaldeira/blob/output/github-contribution-grid-snake.svg)
   
