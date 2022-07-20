@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/caldeiraarq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-   ![Snake animation](https://github.com/NandaCaldeira/NandaCaldeira/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/NandaCaldeira/NandaCaldeira/blob/a2300827fd70451a21e5a9024f64babc4d8d0f2d/.github/workflows/main.yml)
 </div>
 
 
